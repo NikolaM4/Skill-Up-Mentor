@@ -3,6 +3,8 @@
 ## List of watched videos
 
 ### Backend
+Git
+API
 
 ### Frontend
 
