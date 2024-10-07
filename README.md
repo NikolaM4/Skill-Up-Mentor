@@ -13,7 +13,17 @@ NPM \
 MERN Stack \
 ExpressJS \
 NestJS* \
-
+JavaScript \
+TypeScript* \
+AWS* \
+MVC \
+Docker \
+Heroku* \
+Matjaz Gercar - BLOG * (več delov - svetujem prebrati vse) \
+Relational Database \
+SQL \
+MongoDB \
+GraphQL \
 
 ### Frontend
 
