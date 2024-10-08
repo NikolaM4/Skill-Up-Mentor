@@ -24,6 +24,16 @@ Relational Database \
 SQL \
 MongoDB \
 GraphQL \
+Matjaz Gercar - BLOG * (več delov - svetujem prebrati vse) \
+Relational Database \
+SQL \
+MongoDB \
+GraphQL \
+Session vs Token Authentication \
+ORM* \
+TypeORM* \
+Prisma* \
+Swagger*
 
 ### Frontend
 
