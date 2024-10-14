@@ -1,7 +1,7 @@
 # Skill Up Mentor
 
 ## Picked tutorials:
-- Git and GitHub Tutorial for Beginners
+- Git and GitHub Tutorial for Beginners ✅
 - Learn CORS In 6 Minutes
 - Node.JS Full Course (All-in-One Tutorial for Beginners) or (maybe and to learn more things) Alternative: Node.js Full Course for Beginners
 - Learn Express JS In 35 Minutes
